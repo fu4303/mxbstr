@@ -44,7 +44,7 @@
     "react-dom": "^17.0.1",
     "react-feather": "^1.1.6",
     "react-helmet": "^6.1.0",
-    "react-lite-yt-embed": "^1.2.3",
+    "react-lite-yt-embed": "^1.2.6",
     "react-twitter-embed": "^3.0.3",
     "react-twitter-widgets": "^1.9.5",
     "rebass": "^3.0.0-9",
