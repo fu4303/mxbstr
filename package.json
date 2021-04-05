@@ -58,7 +58,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.2.0",
     "@babel/plugin-transform-react-constant-elements": "^7.2.0",
-    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-flow": "^7.13.13",
     "babel-plugin-preval": "^3.0.1",
     "babel-plugin-styled-components": "^1.8.0",
     "flow-bin": "^0.83.0",
