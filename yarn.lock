@@ -12732,10 +12732,10 @@ react-lifecycles-compat@^3.0.4:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-lite-yt-embed@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/react-lite-yt-embed/-/react-lite-yt-embed-1.2.3.tgz#5dcb58aea24d9596f51e02fc64529a05e9f7d18d"
-  integrity sha512-iEMoogjEiEjJBSgx/J1hGYBZlOOcrn0LJp2ZJE03wdmgocbm70e0GBVU0boNQHm2BNlRUJMemUiu2nM8kEYN7g==
+react-lite-yt-embed@^1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/react-lite-yt-embed/-/react-lite-yt-embed-1.2.7.tgz#720d90ae225989ef558b974613d4bdebfd33ac8b"
+  integrity sha512-c660Rp089OJnhIKHq6BzI/2XiExveJAYBVZBj0q26A1Pl2uqlXeLHW/WruGjszQdRHxiJquo2o7hVTvJ5OongA==
 
 react-proptype-conditional-require@^1.0.4:
   version "1.0.4"
